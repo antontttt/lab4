@@ -1,0 +1,8 @@
+cat dog
+dog bird lion
+cat
+lion
+bird fish cat
+dog fish
+fish cat 
+fish cat dog lion elephant
